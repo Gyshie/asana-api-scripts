@@ -1,4 +1,4 @@
-# asana-api-scripts(Intro)
+# asana-api-scripts(Introduction)
 
 Setup:
 1. Get a personal access token ([Quick Start](https://asana.com/developers/documentation/getting-started/quick-start), see 'Authentication')
